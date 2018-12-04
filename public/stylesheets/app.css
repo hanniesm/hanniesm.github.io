@@ -1,0 +1,36 @@
+header {
+  background-color: #6666cc;
+  color: white;
+  font-family: 'IBM Plex Mono', monospace;
+  border: solid 3px white;
+  padding-right: 10px;
+  ;
+}
+
+main {
+  background-color: #3333cc;
+  padding: 5px;
+  font-family: 'IBM Plex Mono', monospace;
+  color:white;
+  padding: 20px;
+}
+
+
+.package {
+  margin-bottom: 48px;
+  width: 80%;
+}
+
+.one {
+    width: 30%;
+    padding: 10px;
+    background: red;
+    float: left;
+}
+.two {
+    margin-left: 15%;
+}
+
+.package .user-info img {
+  border-radius: 50%;
+}
